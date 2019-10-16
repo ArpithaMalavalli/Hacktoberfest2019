@@ -50,10 +50,6 @@ int search(struct trienode** root, char str[])//Searches in TRIE
   return 0;
 }
 
-void delete(struct trienode** root, char str[])
-{
-
-}
 
 int main()
 {
